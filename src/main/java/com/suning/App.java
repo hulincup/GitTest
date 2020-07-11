@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello BigData!" );
         System.out.println( "Hello Flink!" );
+        System.out.println( "Hello Spark!" );
 
 
     }
